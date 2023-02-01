@@ -121,7 +121,7 @@ The CP4I CASE package name is `ibm-cp-integration`
 
 ### Phase 1: Upgrading CP4BA and CP4I
 
-- [Step 1: Upgrade CPFS to 3.7.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-371)
+- [Step 1: Upgrade CPFS to 3.7.x](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-37x)
 - [Step 2: Upgrade CP4BA to 21.0.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4ba-2003-to-2101)
 - [Step 3: Upgrade CP4BA to 21.0.2](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4ba-2101-to-2102)
 - [Step 4: Upgrade CPFS to 3.19.x](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-319x-lts)
