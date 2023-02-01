@@ -57,7 +57,8 @@
 
 - Note: When upgrading Cloud Pak foundational services from 3.6 to 3.19, if you have the IBM API Connect operator installed, you must change the subscription of the IBM API Connect operator to the v2.1.7-eus channel at the same time, otherwise the upgrade will not start. The 2.1.11 version of the API Connect operator (which is associated with the v2.1.7-eus channel), is the only version that is compatible with Cloud Pak foundational services 3.19.
 - [Documentation for APIC Operator Upgrade](https://www.ibm.com/docs/en/cloud-paks/cp-integration/2022.2?topic=upgrading-from-20204)
-- [Source for CPFS 3.19.x](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-38x)
+- [Documentation for CPFS 3.19.x](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-38x)
+  - [Dockerhub for all catalog images by tag](https://hub.docker.com/r/ibmcom/ibm-common-service-catalog/tags) 
 
 <!-- ### TODO -->
 
