@@ -1,17 +1,17 @@
 # Phase 1 - Upgrading CP4BA and CP4I
 
-- [Phase 0: Install Existing Environment](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-0.md)
-- [**Phase 1: Upgrading CP4BA and CP4I**](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md)
+- [Phase 0: Install Existing Environment](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md)
+- [**Phase 1: Upgrading CP4BA and CP4I**](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md)
   - [Step 1: Upgrade CPFS to 3.7.1](#upgrade-cloud-pak-foundational-services-to-371)
   - [Step 2: Upgrade CP4BA to 21.0.1](#cp4ba-2003-to-2101)
   - [Step 3: Upgrade CP4BA to 21.0.2](#cp4ba-2101-to-2102)
   - [Step 4: Upgrade CPFS to 3.19.x](#upgrade-cloud-pak-foundational-services-to-319x-lts)
   - [Step 5: Upgrade CP4BA to 21.0.3 iFix 14](#cp4ba-2102-to-2103)
   - [Step 6: Upgrade CP4I to 2021.4 (Optional)](#cp4i-202041-to-20214-optional)
-- [Phase 2: Upgrading OpenShift (4.6-4.10)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md)
-- [Phase 3: Upgrading CP4I (2022.2)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-3.md)
-- [Phase 4: Upgrading CP4BA (22.0.1)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-4.md)
-- [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-5.md)
+- [Phase 2: Upgrading OpenShift (4.6-4.10)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md)
+- [Phase 3: Upgrading CP4I (2022.2)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-3.md)
+- [Phase 4: Upgrading CP4BA (22.0.1)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-4.md)
+- [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md)
 
 ## Upgrade Cloud Pak Foundational Services to 3.7.1
 

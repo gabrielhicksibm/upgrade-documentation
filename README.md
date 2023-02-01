@@ -115,35 +115,35 @@ The CP4I CASE package name is `ibm-cp-integration`
 
 ### Phase 0: Install Existing Environment
 
-- [Step 1: Install OpenShift 4.6.60 (Work in progress)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-0.md#openshift-4660)
-- [Step 2: Install CP4BA 20.0.3](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-0.md#cp4ba-2003)
-- [Step 3: Install CP4I 2020.4.1](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-0.md#cp4i-202041)
+- [Step 1: Install OpenShift 4.6.60 (Work in progress)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md#openshift-4660)
+- [Step 2: Install CP4BA 20.0.3](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md#cp4ba-2003)
+- [Step 3: Install CP4I 2020.4.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md#cp4i-202041)
 
 ### Phase 1: Upgrading CP4BA and CP4I
 
-- [Step 1: Upgrade CPFS to 3.7.1](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-371)
-- [Step 2: Upgrade CP4BA to 21.0.1](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#cp4ba-2003-to-2101)
-- [Step 3: Upgrade CP4BA to 21.0.2](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#cp4ba-2101-to-2102)
-- [Step 4: Upgrade CPFS to 3.19.x](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-319x-lts)
-- [Step 5: Upgrade CP4BA to 21.0.3 iFix 14](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#cp4ba-2102-to-2103)
-- [Step 6: Upgrade CP4I to 2021.4 (Optional)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md#cp4i-202041-to-20214-optional)
+- [Step 1: Upgrade CPFS to 3.7.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-371)
+- [Step 2: Upgrade CP4BA to 21.0.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4ba-2003-to-2101)
+- [Step 3: Upgrade CP4BA to 21.0.2](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4ba-2101-to-2102)
+- [Step 4: Upgrade CPFS to 3.19.x](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#upgrade-cloud-pak-foundational-services-to-319x-lts)
+- [Step 5: Upgrade CP4BA to 21.0.3 iFix 14](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4ba-2102-to-2103)
+- [Step 6: Upgrade CP4I to 2021.4 (Optional)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md#cp4i-202041-to-20214-optional)
 
 ### Phase 2: Upgrading OpenShift (4.6-4.10)
 
-- [Step 1: Upgrade OpenShift to 4.7](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md#upgrade-openshift-46-to-47)
-- [Step 2: Upgrade OpenShift to 4.8](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md#upgrade-openshift-47-to-48)
-- [Step 3: Upgrade OpenShift to 4.9](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md#upgrade-openshift-48-to-49)
-- [Step 4: Upgrade OpenShift to 4.10](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md#upgrade-openshift-49-to-410)
+- [Step 1: Upgrade OpenShift to 4.7](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md#upgrade-openshift-46-to-47)
+- [Step 2: Upgrade OpenShift to 4.8](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md#upgrade-openshift-47-to-48)
+- [Step 3: Upgrade OpenShift to 4.9](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md#upgrade-openshift-48-to-49)
+- [Step 4: Upgrade OpenShift to 4.10](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md#upgrade-openshift-49-to-410)
 
 ### Phase 3: Upgrading CP4I (2022.2)
 
-- [Step 1: Upgrade CP4I to 2022.2](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-3.md#upgrade-cp4i-to-20222)
+- [Step 1: Upgrade CP4I to 2022.2](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-3.md#upgrade-cp4i-to-20222)
 
 ### Phase 4: Upgrading CP4BA (22.0.1)
 
-- [Step 1: Upgrade CP4BA to 22.0.1](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-4.md#upgrade-cp4ba-to-2201)
+- [Step 1: Upgrade CP4BA to 22.0.1](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-4.md#upgrade-cp4ba-to-2201)
 
 ### Phase 5: Upgrading OpenShift (4.10-4.12)
 
-- [Step 1: Upgrade OpenShift to 4.11](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-5.md#upgrade-openshift-410-to-411)
-- [Step 2: Upgrade OpenShift to 4.12](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-5.md#upgrade-openshift-411-to-412)
+- [Step 1: Upgrade OpenShift to 4.11](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md#upgrade-openshift-410-to-411)
+- [Step 2: Upgrade OpenShift to 4.12](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md#upgrade-openshift-411-to-412)

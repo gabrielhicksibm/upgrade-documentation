@@ -1,15 +1,15 @@
 # Phase 2
 
-- [Phase 0: Install Existing Environment](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-0.md)
-- [Phase 1: Upgrading CP4BA and CP4I](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-1.md)
-- [**Phase 2: Upgrading OpenShift (4.6-4.10)**](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-2.md)
+- [Phase 0: Install Existing Environment](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md)
+- [Phase 1: Upgrading CP4BA and CP4I](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md)
+- [**Phase 2: Upgrading OpenShift (4.6-4.10)**](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-2.md)
   - [Step 1: Upgrade OpenShift to 4.7](#upgrade-openshift-46-to-47)
   - [Step 2: Upgrade OpenShift to 4.8](#upgrade-openshift-47-to-48)
   - [Step 3: Upgrade OpenShift to 4.9](#upgrade-openshift-48-to-49)
   - [Step 4: Upgrade OpenShift to 4.10](#upgrade-openshift-49-to-410)
-- [Phase 3: Upgrading CP4I (2022.2)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-3.md)
-- [Phase 4: Upgrading CP4BA (22.0.1)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-4.md)
-- [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.ibm.com/Gabriel-Hicks/upgradeDocs/blob/main/phases/phase-5.md)
+- [Phase 3: Upgrading CP4I (2022.2)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-3.md)
+- [Phase 4: Upgrading CP4BA (22.0.1)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-4.md)
+- [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md)
 
 ## Upgrade OpenShift 4.6 to 4.7
 
