@@ -15,7 +15,8 @@
 
 ## Upgrade Cloud Pak Foundational Services to 3.7.1
 
-- [Source for CPFS 3.7.1](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
+- [Documentation for CPFS 3.7.1](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
+- [Updating the installer catalog source image tag](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#image_tag)
   - Images for specifying catalog source:
     - [icr.io/ibmcom/ibm-common-service-catalog:3.7](icr.io/ibmcom/ibm-common-service-catalog:3.7)
     - [cr.icr.io/ibmcom/ibm-common-service-catalog:3.7](cr.icr.io/ibmcom/ibm-common-service-catalog:3.7)
