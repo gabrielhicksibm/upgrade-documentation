@@ -2,7 +2,7 @@
 
 - [Phase 0: Install Existing Environment](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-0.md)
 - [**Phase 1: Upgrading CP4BA and CP4I**](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-1.md)
-  - [Step 1: Upgrade CPFS to 3.7.1](#upgrade-cloud-pak-foundational-services-to-371)
+  - [Step 1: Upgrade CPFS to 3.7.x](#upgrade-cloud-pak-foundational-services-to-37x)
   - [Step 2: Upgrade CP4BA to 21.0.1](#cp4ba-2003-to-2101)
   - [Step 3: Upgrade CP4BA to 21.0.2](#cp4ba-2101-to-2102)
   - [Step 4: Upgrade CPFS to 3.19.x](#upgrade-cloud-pak-foundational-services-to-319x-lts)
@@ -13,9 +13,9 @@
 - [Phase 4: Upgrading CP4BA (22.0.1)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-4.md)
 - [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md)
 
-## Upgrade Cloud Pak Foundational Services to 3.7.1
+## Upgrade Cloud Pak Foundational Services to 3.7.x
 
-- [Documentation for CPFS 3.7.1](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
+- [Documentation for CPFS 3.7.x](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
 - [Updating the installer catalog source image tag](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#image_tag)
   - Images for specifying catalog source:
     - [icr.io/ibmcom/ibm-common-service-catalog:3.7](icr.io/ibmcom/ibm-common-service-catalog:3.7)
@@ -31,7 +31,7 @@
 - [Repo for CASE Package 21.0.1](https://github.com/icp4a/cert-kubernetes/tree/21.0.1)
 - [Source to Download CASE Package](https://github.com/IBM/cloud-pak/raw/master/repo/case/ibm-cp-automation-3.0.1.tgz)
 - [Upgrading Dependencies](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=containers-upgrading-dependencies)
-  - This is covered in the previous step "Upgrade Cloud Pak Foundational Services to 3.7.1"
+  - This is also covered in the previous step "Upgrade Cloud Pak Foundational Services to 3.7.x"
 - [Upgrading Operator](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=containers-upgrading-operator)
 - [Upgrading ODM](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=upgrade-upgrading-operational-decision-manager)
 - [Applying Updated Custom Resource](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=containers-applying-upgraded-custom-resource)
