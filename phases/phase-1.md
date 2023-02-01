@@ -18,6 +18,8 @@
 - [Documentation for CPFS 3.7.x](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
 - [Updating the installer catalog source image tag](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#image_tag)
   - Images for specifying catalog source:
+    - [Dockerhub for all catalog images by tag](https://hub.docker.com/r/ibmcom/ibm-common-service-catalog/tags) 
+    - [ibmcom/ibm-common-service-catalog:3.7](https://hub.docker.com/layers/ibmcom/ibm-common-service-catalog/3.7/images/sha256-308ceddbbf4ed5853f120352f865874abc483bfb0a4ef4cfc5a0bb23278b8a4c?context=explore)
     - [icr.io/ibmcom/ibm-common-service-catalog:3.7](icr.io/ibmcom/ibm-common-service-catalog:3.7)
     - [cr.icr.io/ibmcom/ibm-common-service-catalog:3.7](cr.icr.io/ibmcom/ibm-common-service-catalog:3.7)
 - [Upgrading from a Helm release](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-helm-release)
