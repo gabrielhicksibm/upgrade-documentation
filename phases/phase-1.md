@@ -13,9 +13,9 @@
 - [Phase 4: Upgrading CP4BA (22.0.1)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-4.md)
 - [Phase 5: Upgrading OpenShift (4.10-4.12)](https://github.com/gabrielhicksibm/upgrade-documentation/blob/main/phases/phase-5.md)
 
-## Upgrade Cloud Pak Foundational Services to 3.7.1
+## Upgrade Cloud Pak Foundational Services to 3.7.x
 
-- [Source for CPFS 3.7.1](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
+- [Source for CPFS 3.7.x](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
 - [Upgrading from a Helm release](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-helm-release)
 
 ### Uninstall Common Services Metering
