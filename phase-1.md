@@ -16,6 +16,9 @@
 ## Upgrade Cloud Pak Foundational Services to 3.7.1
 
 - [Source for CPFS 3.7.1](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-operator-release#upgrade-36x-37)
+  - Images for specifying catalog source:
+    - [icr.io/ibmcom/ibm-common-service-catalog:3.7](icr.io/ibmcom/ibm-common-service-catalog:3.7)
+    - [cr.icr.io/ibmcom/ibm-common-service-catalog:3.7](cr.icr.io/ibmcom/ibm-common-service-catalog:3.7)
 - [Upgrading from a Helm release](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=online-upgrading-foundational-services-from-helm-release)
 
 ### Uninstall Common Services Metering
